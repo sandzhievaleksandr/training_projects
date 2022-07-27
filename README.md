@@ -1,1 +1,1 @@
-# training_projects
+# Some training projects that I have completed
